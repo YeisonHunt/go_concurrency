@@ -30,14 +30,14 @@ This project is a simple Golang API that connects to a PostgreSQL database. The 
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/your-repo-name.git
+   git clone https://github.com/YeisonHunt/go_concurrency
    cd your-repo-name
    ```
 
 2. Initialize go modules:
 
     ```bash
-    go mod init your_module_name
+    go mod init concurrency
     go mod tidy
     ```
 
