@@ -1,0 +1,46 @@
+# Binaries for programs and plugins
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Output of the go coverage tool, specifically when used with LiteIDE
+*.out
+
+# If you want to ignore the generated documentation
+*.doc
+
+# Go workspace files
+go.work
+go.work.sum
+
+# Vendor directory (you might want to commit this)
+vendor/
+
+# Test binary, might be created when you run `go test`
+*.test
+
+# Test result files
+*.coverprofile
+*.cover.out
+
+# Logs
+*.log
+
+# Editor or IDE-specific files
+# Visual Studio Code
+.vscode/
+.code-workspace
+
+# JetBrains IDEs (Gogland, GoLand, IntelliJ IDEA, etc.)
+.idea/
+
+# Sublime Text
+*.sublime-project
+*.sublime-workspace
+
+# MacOS files
+.DS_Store
+
+# Linux/Unix files
+*.swp
